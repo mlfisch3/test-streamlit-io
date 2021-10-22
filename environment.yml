@@ -1,5 +1,6 @@
+name: MDF_TEST
 channels:
  - conda-forge
 
 dependencies:
- - numpy
+
