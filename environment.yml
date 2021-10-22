@@ -1,9 +1,10 @@
 
 channels:
  - conda-forge
+ - fastai
 
 dependencies:
  - python==3.9.7
  - streamlit==1.0.0
  - numpy==1.19.5
- - py-opencv==4.5.1
+ - opencv-python-headless==4.5.1
